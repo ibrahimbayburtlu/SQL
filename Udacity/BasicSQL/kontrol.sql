@@ -1,0 +1,3 @@
+-- Kontrol
+SELECT *
+FROM accounts;
