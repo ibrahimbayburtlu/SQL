@@ -1,3 +1,0 @@
--- Kontrol
-SELECT *
-FROM accounts;
